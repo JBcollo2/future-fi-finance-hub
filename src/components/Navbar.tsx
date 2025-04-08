@@ -30,7 +30,7 @@ const Navbar = () => {
           </Link>
         </div>
 
-        {/* Desktop Navigation */}
+        {/* Desktop Navigatio */}
         <div className="hidden md:flex items-center space-x-8">
           <DropdownMenu>
             <DropdownMenuTrigger asChild>
